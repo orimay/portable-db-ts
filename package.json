@@ -1,6 +1,6 @@
 {
   "name": "portable-db-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A TypeScript library that provides a simple, in-memory database with a flexible API. It's designed to be portable, making it easy to integrate into your projects.",
   "author": "Dmitrii Baranov <dmitrii.a.baranov@gmail.com>",
   "license": "MIT",
